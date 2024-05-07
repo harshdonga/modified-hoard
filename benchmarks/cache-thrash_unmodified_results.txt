@@ -1,0 +1,1 @@
+bash: line 1: ./cache-thrash: Is a directory

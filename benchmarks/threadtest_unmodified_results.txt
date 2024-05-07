@@ -1,0 +1,1 @@
+bash: line 1: ./threadtest: Is a directory
